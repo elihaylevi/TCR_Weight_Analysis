@@ -1,0 +1,12 @@
+pandas
+numpy
+h2o
+scikit-learn
+matplotlib
+seaborn
+scipy
+concurrent.futures
+multiprocessing
+shutil
+openpyxl
+xlrd
