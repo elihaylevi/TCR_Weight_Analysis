@@ -76,12 +76,12 @@ To generate the figures used in the study, open and run `notebooks/TCR_weight_pl
 
 ### Key Figures in `results/`
 
-- `` - Results of one-hot classification between different TCR selection groups.
-- `` - Comparison of CDR3 differences between TCR Weight and Publicity.
-- `` - Heatmap showing classification accuracy across age groups.
-- `` - Heatmap showing classification accuracy for biological sex.
-- `` - Heatmap of Euclidean distances between TCR selection groups.
-- `` - Radar chart visualizing age classification accuracy.
+- **`one_hot_classification_auc.png`** - Results of one-hot classification between different TCR selection groups.
+- **`cdr3_comparison_tcr_weight_vs_publicity.png`** - Comparison of CDR3 differences between TCR Weight and Publicity.
+- **`age_classification_accuracy_heatmap.png`** - Heatmap showing classification accuracy across age groups.
+- **`biological_sex_classification_accuracy_heatmap.png`** - Heatmap showing classification accuracy for biological sex.
+- **`euclidean_distance_heatmap.png`** - Heatmap of Euclidean distances between TCR selection groups.
+- **`age_classification_radar_chart.png`** - Radar chart visualizing age classification accuracy.
 
 ## Contact
 
