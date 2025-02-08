@@ -68,8 +68,6 @@ pip install -r requirements.txt
 - The `validation_data/` folder is used for validating findings but is **not used** for classification.
 - The scripts in `notebooks/` process and analyze the data.
 
-To run the **classification models**, execute the relevant scripts in `notebooks/` or your Python environment.
-
 ### Generating Plots for the Results Section
 
 To generate the figures used in the study, open and run `notebooks/TCR_weight_plots.ipynb`. This notebook produces all visualizations found in the results section of the article.
